@@ -10,4 +10,8 @@ iphone/
 A3_rs/
 A3_rs.launch
 test/
+build
+devel
+install
+log
 test.launch
